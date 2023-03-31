@@ -1,0 +1,13 @@
+Module 4 Challenge - Written Analysis_PyCity 
+
+Summary:
+
+The PyCity School District analysis helps identify student success across a range of key dimensions and metrics. Key focus areas include identifyingthe total budget and students per school and math and reading test passing rates (%) - individual and combined - along with a breakdown of these metrics by school type, budget per school and spend per student. The analysis helps lend insight on key areas including grade level test math and reading scores and how students performed across key focus areas; spending, size and type of institution (District or Charter). All these breakdowns help tell the story of how well PyCity School District is performing at both the student and school level. 
+
+
+Conclusions:
+
+-Student success is not a function of how much investment is poured into their education; as evident by the Spending Ranges (Per Student) table. We can see that overall passing rate actually has an inverse relationship with school spend per student. 
+
+-School's that maintain a small to moderate amount of students maintain significantly higher overall passing rates compared to large size school's; by at least 30%. This combined with the Spending per student insights help draw the conclusion that the more attention a student receives, the higher their test score performance is likely to be. That it is not a question about money but rather maintaining healthy teacher:student ratios. 
+
